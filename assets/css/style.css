@@ -620,6 +620,13 @@ section {
   padding-left: 15px;
 }
 
+.same-height {
+  height: 200px; /* Adjust the height as needed */
+  object-fit: cover;
+  width: 100%;
+}
+
+
 .features .icon-box h4 {
   font-size: 20px;
   font-weight: 700;
